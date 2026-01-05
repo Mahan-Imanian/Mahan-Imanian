@@ -4,7 +4,8 @@
 
 <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-<img alt="Typing tagline" width="100%" src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22I%20ship%20game%20loops%20and%20web%20systems%22%2C%22color%22%3A%22%2338bdf8%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Orbit%20coin%20runs%20live%20on%20GitHub%20Pages%22%2C%22color%22%3A%22%23a78bfa%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Profiling%20first%20to%20hit%20frame%20budget%22%2C%22color%22%3A%22%2334d399%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Readable%20code%20tested%20and%20documented%22%2C%22color%22%3A%22%23f472b6%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%5D&width=920&height=60&font=Inter&fontSize=20&fontWeight=600&typingSpeed=0.004&deleteSpeed=0.003&pause=350&repeat=true&center=true&vCenter=true&cursorStyle=straight&deletionBehavior=backspace&backgroundOpacity=0&border=false" />
+<img alt="Typing tagline" width="100%" src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Building%20small%20games%20and%20tools%20that%20feel%20good%20to%20use%22%2C%22color%22%3A%22%2360a5fa%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Orbit%20coin%20is%20a%20JS%20demo%20running%20on%20GitHub%20Pages%22%2C%22color%22%3A%22%23a78bfa%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22I%20tune%20input%20feel%20and%20frame%20time%20until%20it%20is%20smooth%22%2C%22color%22%3A%22%2334d399%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Readable%20code%20clear%20notes%20and%20practical%20tests%20in%20the%20repo%22%2C%22color%22%3A%22%23f59e0b%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%5D&width=1200&height=64&font=Inter&fontSize=20&fontWeight=600&typingSpeed=0.0015&deleteSpeed=0.001&pause=420&repeat=true&center=true&vCenter=true&cursorStyle=straight&deletionBehavior=backspace&backgroundOpacity=0&border=false" />
+
 <a href="https://greentouch-official.github.io/Orbit-coin/">
   <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
@@ -26,24 +27,27 @@
 <table>
   <tr>
     <td align="left" width="320">
-      <h3>Critical-thinking build style</h3>
+      <h3>How I work</h3>
       <p>
-        I write down assumptions, test boundaries, and measure performance.
-        I treat docs as part of the deliverable.
+        I start small, get something running, then tighten it up.
+        I write down assumptions so bugs are easier to reason about.
+        I measure performance before changing things.
       </p>
     </td>
     <td align="left" width="320">
-      <h3>Game + visuals</h3>
+      <h3>Games</h3>
       <p>
-        Real-time loops, input handling, rendering constraints, and iteration speed.
-        I care about feel and frame budget.
+        Real-time update loops, input handling, and rendering tradeoffs.
+        I care about responsiveness and keeping the frame stable.
+        I prefer simple tooling that makes iteration quick.
       </p>
     </td>
     <td align="left" width="320">
-      <h3>Backend + systems</h3>
+      <h3>Web and backend</h3>
       <p>
-        APIs, data models, and reliability.
-        I aim for boring, observable, maintainable services.
+        APIs, data models, and deploys that keep working.
+        I like predictable behavior over clever tricks.
+        Logs and small fixes beat mystery outages.
       </p>
     </td>
   </tr>
@@ -124,8 +128,6 @@
 <a href="https://github.com/GreenTouch-official/Orbit-coin/releases">
   <img alt="Latest release" src="https://img.shields.io/github/v/release/GreenTouch-official/Orbit-coin?style=for-the-badge&label=release&logo=github&logoColor=white&color=111827" />
 </a>
-<img alt="CI" src="https://img.shields.io/badge/CI-pending-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img alt="Coverage" src="https://img.shields.io/badge/Coverage-tracked-111827?style=for-the-badge&logo=codecov&logoColor=white" />
 <a href="https://github.com/GreenTouch-official/Orbit-coin">
   <img alt="Contributors" src="https://img.shields.io/github/contributors/GreenTouch-official/Orbit-coin?style=for-the-badge&label=contributors&logo=github&logoColor=white&color=111827" />
 </a>
@@ -163,7 +165,5 @@ flowchart TB
   Render --> Canvas[Canvas]
   Loop --> Audio[Audio]
   Loop --> Storage[(Local Storage)]
-```text
   Browser --> Deploy[GitHub Pages Deploy]
   Deploy --> Canvas
-  ```
