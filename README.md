@@ -4,7 +4,7 @@
 
 <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-<img alt="Typing tagline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&center=true&vCenter=true&width=920&lines=I+ship+interactive+systems%3A+spec+%E2%86%92+build+%E2%86%92+test+%E2%86%92+profile+%E2%86%92+document.;I+prefer+clear+assumptions%2C+edge-cases%2C+and+measurable+results.;Game+loops%2C+rendering%2C+and+full-stack+delivery+in+one+portfolio." />
+<img alt="Typing tagline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=900&center=true&vCenter=true&width=920&lines=I+ship+interactive+systems%3A+spec+%E2%86%92+build+%E2%86%92+test+%E2%86%92+profile+%E2%86%92+document.;I+prefer+clear+assumptions%2C+edge-cases%2C+and+measurable+results.;Game+loops%2C+rendering%2C+and+full-stack+delivery+in+one+portfolio." />
 
 <a href="https://greentouch-official.github.io/Orbit-coin/">
   <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -154,73 +154,15 @@
 
 </div>
 
-<div align="center">
-
-<img alt="System map (light)" width="100%" src="https://kroki.io/mermaid/svg/eNpNjsGOgjAQhu88xRz1QHgDkwXW3SaYGIrxMPFQcFybZcEMRUPSh9-BmuihL5yP9v95GApEMoRLUm5ED9Cpm9K1nOygbbQW8G9th0j6oWJbGfFGH0xlMhlVWUn5wCwh7P-WB2qUJw0bO9nW13KZc3sQJR_jJ59xKoYgQK5u4u7IVU1C5d5RjF0OWZxjZVY9Qq2WHjYkqEJYH4MwjXcVfOqRkq5XjD2xub9Ygq8A3S3qCjC8z1GQ4BfeS4y0VQXCrxDT3UqUw?theme=default#gh-light-mode-only" />
-<img alt="System map (dark)" width="100%" src="https://kroki.io/mermaid/svg/eNpNjsGOgjAQhu88xRz1QHgDkwXW3SaYGIrxMPFQcFybZcEMRUPSh9-BmuihL5yP9v95GApEMoRLUm5ED9Cpm9K1nOygbbQW8G9th0j6oWJbGfFGH0xlMhlVWUn5wCwh7P-WB2qUJw0bO9nW13KZc3sQJR_jJ59xKoYgQK5u4u7IVU1C5d5RjF0OWZxjZVY9Qq2WHjYkqEJYH4MwjXcVfOqRkq5XjD2xub9Ygq8A3S3qCjC8z1GQ4BfeS4y0VQXCrxDT3UqUw?theme=dark#gh-dark-mode-only" />
-
-<br/><br/>
-
-<img alt="Game loop (light)" width="100%" src="https://kroki.io/mermaid/svg/eNo9zcEKgzAQBNB7vmJP3vwFwRgLvYXa2-Ih6GqFGCVu6O-bbKHXNzPM4o_vv4hXv4v7v7sS0c9tq4Jq8sDgGv2p2l6s2u2H2v6r3Cwq7w7bI5n0lR2kN0GmG2dT5nW9q5oQJ2o8o1r3QwO2Rk0fQz1wQyUjz6xw7b8Z?theme=default#gh-light-mode-only" />
-<img alt="Game loop (dark)" width="100%" src="https://kroki.io/mermaid/svg/eNo9zcEKgzAQBNB7vmJP3vwFwRgLvYXa2-Ih6GqFGCVu6O-bbKHXNzPM4o_vv4hXv4v7v7sS0c9tq4Jq8sDgGv2p2l6s2u2H2v6r3Cwq7w7bI5n0lR2kN0GmG2dT5nW9q5oQJ2o8o1r3QwO2Rk0fQz1wQyUjz6xw7b8Z?theme=dark#gh-dark-mode-only" />
-
-</div>
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
-
-<div align="center">
-
-<img width="100%" alt="Roadmap header" src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Roadmap%20%2B%20Targets&fontAlign=50&fontAlignY=55&color=gradient&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-<img alt="Roadmap milestone 1" src="https://progress-bar.dev/35/?title=Portfolio%20build&width=520" />
-<br/>
-<img alt="Roadmap milestone 2" src="https://progress-bar.dev/25/?title=Shipped%20demos&width=520" />
-<br/>
-<img alt="Roadmap milestone 3" src="https://progress-bar.dev/20/?title=Systems%20writeups&width=520" />
-
-<br/><br/>
-
-<img alt="Roadmap gantt (light)" width="100%" src="https://kroki.io/mermaid/svg/eNpdkE1vgzAMhu_9Fb70NCI16YfW3ZBob6ionHYMkEK0gKPEa7t_P7OJtczKSFv5fX9xjJ1m7m3H9r0xqzjZ9m1VqvQqQZq9cWc7s5mXJc3p2mTtqQqJq9bq8o0rKc3QbqRrKq2g7u4D6r3kQ8n5xYQ3Gq1y8kYt0M1AqT3d2m8Y9o7GmZ8kzvVg3r4pGxk8g9d9cVdWc1lW5fVQ0o8w0aYV6xXw7aW2p2XGQy5Sg7BqZ2h7Jm6mYJpYB5WcKQ8cQbq8oVt0xk0m0d0d7cG?theme=default#gh-light-mode-only" />
-<img alt="Roadmap gantt (dark)" width="100%" src="https://kroki.io/mermaid/svg/eNpdkE1vgzAMhu_9Fb70NCI16YfW3ZBob6ionHYMkEK0gKPEa7t_P7OJtczKSFv5fX9xjJ1m7m3H9r0xqzjZ9m1VqvQqQZq9cWc7s5mXJc3p2mTtqQqJq9bq8o0rKc3QbqRrKq2g7u4D6r3kQ8n5xYQ3Gq1y8kYt0M1AqT3d2m8Y9o7GmZ8kzvVg3r4pGxk8g9d9cVdWc1lW5fVQ0o8w0aYV6xXw7aW2p2XGQy5Sg7BqZ2h7Jm6mYJpYB5WcKQ8cQbq8oVt0xk0m0d0d7cG?theme=dark#gh-dark-mode-only" />
-
-</div>
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" />
-
-<details>
-  <summary><b>Proof, compact</b></summary>
-
-  <br/>
-
-  <div align="center">
-    <img alt="Orbit-coin contributors" src="https://contrib.rocks/image?repo=GreenTouch-official/Orbit-coin" />
-  </div>
-
-  <br/>
-
-  <div align="center">
-    <img alt="Pinned Orbit-coin" src="https://github-readme-stats.vercel.app/api/pin/?username=GreenTouch-official&repo=Orbit-coin&hide_border=true&theme=transparent" />
-    <img alt="Pinned turbulenz_engine" src="https://github-readme-stats.vercel.app/api/pin/?username=GreenTouch-official&repo=turbulenz_engine&hide_border=true&theme=transparent" />
-    <img alt="Pinned burmese-gold-weight-js" src="https://github-readme-stats.vercel.app/api/pin/?username=GreenTouch-official&repo=burmese-gold-weight-js&hide_border=true&theme=transparent" />
-    <img alt="Pinned profile" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahan-Imanian&repo=profile&hide_border=true&theme=transparent" />
-  </div>
-
-</details>
-
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
-
-<div align="center">
-
-<a href="https://github.com/Mahan-Imanian/profile/issues/new">
-  <img alt="Contact via issue" src="https://img.shields.io/badge/Contact-open%20an%20issue-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>Assets: SVG-first, dark/light-safe. External widgets: minimal, cached, and replaceable.</sub>
-
-</div>
+```mermaid
+flowchart TB
+  Player[Player] --> Browser[Browser]
+  Browser --> UI[UI Layer]
+  UI --> Loop[Game Loop]
+  Loop --> State[(Game State)]
+  Loop --> Render[Renderer]
+  Render --> Canvas[Canvas]
+  Loop --> Audio[Audio]
+  Loop --> Storage[(Local Storage)]
+  Browser --> Deploy[GitHub Pages Deploy]
+  Deploy --> Canvas
