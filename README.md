@@ -4,7 +4,7 @@
 
 <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-<img alt="Typing tagline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=900&center=true&vCenter=true&width=920&lines=Computer+Science+%7C+Game+Dev+%7C+Full-stack.;Orbit-coin+%28JS%29+%E2%80%94+live+demo+on+GitHub+Pages.;Profiling-first%2C+clean+architecture%2C+maintainable+code." />
+<img alt="Typing tagline" src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Computer%20Science%20%7C%20Game%20Dev%20%7C%20Full-stack.%22%2C%22color%22%3A%22%23111827%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Orbit-coin%20%28JS%29%20%5Cu2014%20live%20demo%20on%20GitHub%20Pages.%22%2C%22color%22%3A%22%232563eb%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%2C%7B%22text%22%3A%22Profiling-first%2C%20clean%20architecture%2C%20maintainable%20code.%22%2C%22color%22%3A%22%2316a34a%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%5D&width=920&height=60&font=Inter&fontSize=20&fontWeight=500&typingSpeed=0.06&deleteSpeed=0.03&pause=900&repeat=true&center=true&vCenter=true&cursorStyle=straight&deletionBehavior=backspace&backgroundOpacity=0&border=false" />
 <a href="https://greentouch-official.github.io/Orbit-coin/">
   <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
@@ -165,4 +165,3 @@ flowchart TB
   Loop --> Storage[(Local Storage)]
   Browser --> Deploy[GitHub Pages Deploy]
   Deploy --> Canvas
-  ::contentReference[oaicite:0]{index=0}
