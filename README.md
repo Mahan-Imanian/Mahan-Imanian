@@ -4,7 +4,7 @@
 
 <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-<img alt="Typing tagline" src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Game%20dev%20and%20full%20stack%20shipping%20Orbit%20coin%20from%20idea%20to%20deploy%22%2C%22color%22%3A%22%2338bdf8%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22I%20tune%20frame%20time%20and%20input%20feel%20until%20the%20loop%20is%20fast%22%2C%22color%22%3A%22%23a78bfa%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%2C%7B%22text%22%3A%22I%20build%20APIs%20tooling%20and%20docs%20that%20make%20shipping%20predictable%22%2C%22color%22%3A%22%2334d399%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%5D&width=920&height=60&font=Inter&fontSize=20&fontWeight=500&typingSpeed=0.028&deleteSpeed=0.02&pause=650&repeat=true&center=true&vCenter=true&cursorStyle=straight&deletionBehavior=backspace&backgroundOpacity=0&border=false" />
+<img alt="Typing tagline" width="100%" src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Performance%20focused%20game%20loops%20and%20full%20stack%20systems%20shipped%20end%20to%20end%22%2C%22color%22%3A%22%2338bdf8%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Orbit%20coin%20is%20a%20JavaScript%20game%20demo%20deployed%20on%20GitHub%20Pages%22%2C%22color%22%3A%22%23a78bfa%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Profiling%20driven%20engineering%20with%20clean%20architecture%20and%20tight%20input%20feel%22%2C%22color%22%3A%22%2334d399%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%5D&width=1200&height=72&font=Inter&fontSize=20&fontWeight=600&typingSpeed=0.018&deleteSpeed=0.012&pause=550&repeat=true&center=true&vCenter=true&cursorStyle=straight&deletionBehavior=backspace&backgroundOpacity=0&border=false" />
 <a href="https://greentouch-official.github.io/Orbit-coin/">
   <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
@@ -163,6 +163,7 @@ flowchart TB
   Render --> Canvas[Canvas]
   Loop --> Audio[Audio]
   Loop --> Storage[(Local Storage)]
+```text
   Browser --> Deploy[GitHub Pages Deploy]
   Deploy --> Canvas
   ```
