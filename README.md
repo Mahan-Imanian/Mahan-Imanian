@@ -4,7 +4,11 @@
 
   <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-  <img alt="Typing tagline" width="100%" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=250&duration=650&center=true&vCenter=true&width=920&height=60&color=38BDF8&lines=Game+dev+and+full+stack+projects;Orbit+coin+demo+live+on+GitHub+Pages;Input+feel+and+frame+time+first;Small+systems+kept+clean+and+readable" />
+  <img
+    alt="Typing tagline"
+    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2400&pause=650&center=true&vCenter=true&width=1200&height=72&color=38BDF8&lines=Tight+loops+clean+input+fast+iteration;Orbit+coin+demo+running+on+GitHub+Pages;Profiling+first+then+the+small+fixes;Simple+APIs+reliable+deploys+clear+notes"
+  />
 
   <a href="https://greentouch-official.github.io/Orbit-coin/">
     <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -27,27 +31,24 @@
   <table>
     <tr>
       <td align="left" width="320">
-        <h3>How I work</h3>
+        <h3>Build notes</h3>
         <p>
-          Small first pass then tighten the loop<br/>
-          Measure before changing behavior<br/>
-          Notes stay next to the code
+          Assumptions first then edge cases then measurement.<br/>
+          Notes stay close to the code.
         </p>
       </td>
       <td align="left" width="320">
-        <h3>Games</h3>
+        <h3>Game + visuals</h3>
         <p>
-          Update loop input and rendering tradeoffs<br/>
-          Smooth feel over flashy tricks<br/>
-          Keep iteration fast
+          Loop input render and audio with a frame budget.<br/>
+          Feel matters more than tricks.
         </p>
       </td>
       <td align="left" width="320">
-        <h3>Web and backend</h3>
+        <h3>Backend + systems</h3>
         <p>
-          Simple APIs and predictable deploys<br/>
-          Clear data models<br/>
-          Logs that explain failures
+          Simple APIs stable deploys and clear observability.<br/>
+          Keep it readable and boring.
         </p>
       </td>
     </tr>
@@ -87,6 +88,7 @@
         <br/>
         <sub>Orbit-coin: small Web game prototype (JS/HTML) with a live deploy.</sub>
       </td>
+
       <td align="center" width="520">
         <a href="https://github.com/Mahan-Imanian/profile">
           <img alt="Profile repo preview" width="520" src="https://opengraph.githubassets.com/1/Mahan-Imanian/profile" />
@@ -136,12 +138,24 @@
 
   <br/><br/>
 
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Mahan-Imanian&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=86400" />
-  <img alt="All languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&hide_border=true&langs_count=50&theme=transparent&cache_seconds=86400" />
+  <img
+    alt="GitHub stats"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Mahan-Imanian&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&cache_seconds=86400"
+  />
+  <img
+    alt="All languages"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&langs_count=20&hide_border=true&bg_color=00000000&cache_seconds=86400"
+  />
 
   <br/>
 
-  <img alt="Streak" height="170" src="https://streak-stats.demolab.com?user=Mahan-Imanian&hide_border=true&theme=transparent" />
+  <img
+    alt="Streak"
+    height="170"
+    src="https://streak-stats.demolab.com?user=Mahan-Imanian&hide_border=true&background=00000000"
+  />
 
   <br/>
 
