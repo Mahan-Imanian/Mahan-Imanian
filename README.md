@@ -4,11 +4,7 @@
 
   <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-  <img
-    alt="Typing tagline"
-    width="100%"
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1800&pause=450&color=38BDF8&center=true&vCenter=true&width=1200&height=72&lines=Game+loops+that+feel+right;Orbit+coin+live+demo+on+GitHub+Pages;Profiling+first+then+the+fix;Full+stack+when+the+project+needs+it"
-  />
+  <img alt="Typing tagline" width="100%" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=250&duration=650&center=true&vCenter=true&width=920&height=60&color=38BDF8&lines=Game+dev+and+full+stack+projects;Orbit+coin+demo+live+on+GitHub+Pages;Input+feel+and+frame+time+first;Small+systems+kept+clean+and+readable" />
 
   <a href="https://greentouch-official.github.io/Orbit-coin/">
     <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -31,24 +27,27 @@
   <table>
     <tr>
       <td align="left" width="320">
-        <h3>Build notes</h3>
+        <h3>How I work</h3>
         <p>
-          I start with assumptions and edge cases then I measure and iterate.<br/>
-          Docs live next to the code.
+          Small first pass then tighten the loop<br/>
+          Measure before changing behavior<br/>
+          Notes stay next to the code
         </p>
       </td>
       <td align="left" width="320">
-        <h3>Game + visuals</h3>
+        <h3>Games</h3>
         <p>
-          Loop input render and audio with a frame budget in mind.<br/>
-          I optimize for feel and iteration speed.
+          Update loop input and rendering tradeoffs<br/>
+          Smooth feel over flashy tricks<br/>
+          Keep iteration fast
         </p>
       </td>
       <td align="left" width="320">
-        <h3>Backend + systems</h3>
+        <h3>Web and backend</h3>
         <p>
-          APIs data models and deploys that stay simple.<br/>
-          Logs metrics and tests over guesswork.
+          Simple APIs and predictable deploys<br/>
+          Clear data models<br/>
+          Logs that explain failures
         </p>
       </td>
     </tr>
@@ -138,7 +137,7 @@
   <br/><br/>
 
   <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Mahan-Imanian&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=86400" />
-  <img alt="All languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&hide_border=true&langs_count=20&theme=transparent&cache_seconds=86400" />
+  <img alt="All languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&hide_border=true&langs_count=50&theme=transparent&cache_seconds=86400" />
 
   <br/>
 
