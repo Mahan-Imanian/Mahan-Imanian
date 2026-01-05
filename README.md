@@ -4,7 +4,7 @@
 
 <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-<img alt="Typing tagline" src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Computer%20Science%20%7C%20Game%20Dev%20%7C%20Full-stack.%22%2C%22color%22%3A%22%23111827%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22Orbit-coin%20%28JS%29%20%5Cu2014%20live%20demo%20on%20GitHub%20Pages.%22%2C%22color%22%3A%22%232563eb%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%2C%7B%22text%22%3A%22Profiling-first%2C%20clean%20architecture%2C%20maintainable%20code.%22%2C%22color%22%3A%22%2316a34a%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%5D&width=920&height=60&font=Inter&fontSize=20&fontWeight=500&typingSpeed=0.06&deleteSpeed=0.03&pause=900&repeat=true&center=true&vCenter=true&cursorStyle=straight&deletionBehavior=backspace&backgroundOpacity=0&border=false" />
+<img alt="Typing tagline" src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Game%20dev%20and%20full%20stack%20shipping%20Orbit%20coin%20from%20idea%20to%20deploy%22%2C%22color%22%3A%22%2338bdf8%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A600%7D%2C%7B%22text%22%3A%22I%20tune%20frame%20time%20and%20input%20feel%20until%20the%20loop%20is%20fast%22%2C%22color%22%3A%22%23a78bfa%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%2C%7B%22text%22%3A%22I%20build%20APIs%20tooling%20and%20docs%20that%20make%20shipping%20predictable%22%2C%22color%22%3A%22%2334d399%22%2C%22font%22%3A%22Inter%22%2C%22fontWeight%22%3A500%7D%5D&width=920&height=60&font=Inter&fontSize=20&fontWeight=500&typingSpeed=0.028&deleteSpeed=0.02&pause=650&repeat=true&center=true&vCenter=true&cursorStyle=straight&deletionBehavior=backspace&backgroundOpacity=0&border=false" />
 <a href="https://greentouch-official.github.io/Orbit-coin/">
   <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
@@ -165,3 +165,4 @@ flowchart TB
   Loop --> Storage[(Local Storage)]
   Browser --> Deploy[GitHub Pages Deploy]
   Deploy --> Canvas
+  ```
