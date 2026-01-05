@@ -4,16 +4,7 @@
 
 <img alt="Avatar" width="140" src="https://avatars.githubusercontent.com/u/252435250?s=280&v=4" />
 
-<img alt="Typing tagline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=900&center=true&vCenter=true&width=920&lines=I+build+small+games+and+web+things.;Orbit-coin%3A+JS+prototype+on+GitHub+Pages.;I+profile+frame-time%2C+fix+bugs%2C+ship+updates." />
-
-
-
-
-
-
-
-Sources
-
+<img alt="Typing tagline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=900&center=true&vCenter=true&width=920&lines=Computer+Science+%7C+Game+Dev+%7C+Full-stack.;Orbit-coin+%28JS%29+%E2%80%94+live+demo+on+GitHub+Pages.;Profiling-first%2C+clean+architecture%2C+maintainable+code." />
 <a href="https://greentouch-official.github.io/Orbit-coin/">
   <img alt="Play Orbit-coin" src="https://img.shields.io/badge/Play-Orbit--coin-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
@@ -141,8 +132,8 @@ Sources
 
 <br/><br/>
 
-<img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Mahan-Imanian&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=86400" />
-<img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&hide_border=true&langs_count=10&theme=transparent&cache_seconds=86400" />
+<img alt="GitHub stats" height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahan-Imanian&theme=transparent" />
+<img alt="Top languages" height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahan-Imanian&theme=transparent" />
 
 <br/>
 
@@ -174,3 +165,4 @@ flowchart TB
   Loop --> Storage[(Local Storage)]
   Browser --> Deploy[GitHub Pages Deploy]
   Deploy --> Canvas
+  ::contentReference[oaicite:0]{index=0}
