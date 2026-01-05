@@ -153,6 +153,7 @@
 
 </div>
 
+```mermaid
 flowchart TB
   Player[Player] --> Browser[Browser]
   Browser --> UI[UI Layer]
@@ -162,6 +163,7 @@ flowchart TB
   Render --> Canvas[Canvas]
   Loop --> Audio[Audio]
   Loop --> Storage[(Local Storage)]
+```text
   Browser --> Deploy[GitHub Pages Deploy]
   Deploy --> Canvas
   ```
