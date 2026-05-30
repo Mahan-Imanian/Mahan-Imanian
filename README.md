@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="Mahan Imanian" src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=Mahan%20Imanian&fontSize=62&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%E2%80%A2%20Game%20Development%20%E2%80%A2%20Full-Stack%20Web&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0ea5e9,50:7c3aed,100:ec4899" />
+<img width="100%" alt="Mahan Imanian" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Mahan%20Imanian&fontSize=62&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20%E2%80%A2%20Game%20Development%20%E2%80%A2%20Full-Stack%20Web&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0ea5e9,50:7c3aed,100:ec4899" />
 
-<img width="150" alt="Mahan Imanian profile photo" src="https://github.com/Mahan-Imanian.png?size=300" />
+<img width="150" alt="Mahan Imanian profile image" src="https://github.com/Mahan-Imanian.png?size=300" />
 
 <br><br>
 
@@ -11,10 +11,10 @@
 <br><br>
 
 <a href="https://github.com/Mahan-Imanian/LiveDash">
-  <img alt="LiveDash" src="https://img.shields.io/badge/Code-LiveDash-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img alt="LiveDash" src="https://img.shields.io/badge/LiveDash-Repository-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://github.com/Mahan-Imanian/QueueTTS">
-  <img alt="QueueTTS" src="https://img.shields.io/badge/Code-QueueTTS-F97316?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img alt="QueueTTS" src="https://img.shields.io/badge/QueueTTS-Repository-F97316?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://www.linkedin.com/in/mahan-imanian">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mahan--imanian-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
@@ -36,36 +36,17 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Build Style</h3>
-      <p>Small scope, readable structure, fast loops, practical results.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Game + Visuals</h3>
-      <p>Input feel, frame timing, state loops, canvas rendering.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Web + Tools</h3>
-      <p>Clean UI, simple deployment, stable data flow, usable UX.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 <img width="100%" alt="Selected Work" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=header&text=Selected%20Work&fontSize=42&fontAlign=50&fontAlignY=56&animation=fadeIn&fontColor=ffffff&color=0:0ea5e9,50:7c3aed,100:ec4899" />
 
 <table>
   <tr>
     <td align="center" width="50%">
+      <h2>
+        <a href="https://github.com/Mahan-Imanian/QueueTTS">QueueTTS</a>
+      </h2>
+      <p>Browser text-to-speech queue tool for controlled playback.</p>
       <a href="https://github.com/Mahan-Imanian/QueueTTS">
-        <img width="100%" alt="QueueTTS repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahan-Imanian&repo=QueueTTS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_radius=16" />
+        <img alt="QueueTTS repository" src="https://img.shields.io/badge/Open-Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
       </a>
       <br><br>
       <a href="https://github.com/Mahan-Imanian/QueueTTS/stargazers">
@@ -77,12 +58,14 @@
       <a href="https://github.com/Mahan-Imanian/QueueTTS/commits/main">
         <img alt="QueueTTS last commit" src="https://img.shields.io/github/last-commit/Mahan-Imanian/QueueTTS?style=for-the-badge&label=last%20commit&logo=github&logoColor=white&color=EC4899&labelColor=0D1117" />
       </a>
-      <br><br>
-      <sub>Browser text-to-speech queue tool for controlled playback.</sub>
     </td>
     <td align="center" width="50%">
+      <h2>
+        <a href="https://github.com/Mahan-Imanian/LiveDash">LiveDash</a>
+      </h2>
+      <p>Daily dashboard built for fast visibility and clean browser use.</p>
       <a href="https://github.com/Mahan-Imanian/LiveDash">
-        <img width="100%" alt="LiveDash repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahan-Imanian&repo=LiveDash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_radius=16" />
+        <img alt="LiveDash repository" src="https://img.shields.io/badge/Open-Repository-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
       </a>
       <br><br>
       <a href="https://github.com/Mahan-Imanian/LiveDash/stargazers">
@@ -94,8 +77,6 @@
       <a href="https://github.com/Mahan-Imanian/LiveDash/commits/main">
         <img alt="LiveDash last commit" src="https://img.shields.io/github/last-commit/Mahan-Imanian/LiveDash?style=for-the-badge&label=last%20commit&logo=github&logoColor=white&color=EC4899&labelColor=0D1117" />
       </a>
-      <br><br>
-      <sub>Daily dashboard built for fast visibility and clean browser use.</sub>
     </td>
   </tr>
 </table>
@@ -106,24 +87,32 @@
 
 <div align="center">
 
-<img width="100%" alt="GitHub Snapshot" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=header&text=GitHub%20Snapshot&fontSize=42&fontAlign=50&fontAlignY=56&animation=fadeIn&fontColor=ffffff&color=0:0ea5e9,50:7c3aed,100:ec4899" />
+<img width="100%" alt="GitHub Activity" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=header&text=GitHub%20Activity&fontSize=42&fontAlign=50&fontAlignY=56&animation=fadeIn&fontColor=ffffff&color=0:0ea5e9,50:7c3aed,100:ec4899" />
 
-<img width="98%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Mahan-Imanian&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Profile</h3>
+      <a href="https://github.com/Mahan-Imanian?tab=repositories">
+        <img alt="Repositories" src="https://img.shields.io/badge/View-Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Contributions</h3>
+      <a href="https://github.com/Mahan-Imanian">
+        <img alt="GitHub profile" src="https://img.shields.io/badge/Open-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>Projects</h3>
+      <a href="https://github.com/Mahan-Imanian?tab=stars">
+        <img alt="GitHub stars" src="https://img.shields.io/badge/View-Stars-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-<a href="https://github.com/Mahan-Imanian">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mahan-Imanian&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_radius=16" />
-</a>
-<a href="https://github.com/Mahan-Imanian">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=16" />
-</a>
-
-<br><br>
-
-<img width="70%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Mahan-Imanian&theme=tokyonight&hide_border=true&background=0D1117&border_radius=16&date_format=M%20j%5B%2C%20Y%5D" />
-
-<br><br>
+<br>
 
 <img width="98%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahan-Imanian&theme=tokyo-night&hide_border=true&area=true&radius=16&custom_title=Contribution%20Activity" />
 
@@ -159,37 +148,3 @@ flowchart TB
   class User,Browser,Interface,Loop core;
   class State,Storage data;
   class Render,View,Deploy,Live,Resume output;
-```
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Plan</b>
-      <br>
-      <sub>Scope, constraints, core loop</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>Build</b>
-      <br>
-      <sub>Readable modules, simple data flow</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>Ship</b>
-      <br>
-      <sub>Static deploys, low-friction releases</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>Refine</b>
-      <br>
-      <sub>Feedback, fixes, visual polish</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=fadeIn&fontColor=ffffff&color=0:ec4899,50:7c3aed,100:0ea5e9" />
-
-</div>
