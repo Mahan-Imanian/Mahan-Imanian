@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Mahan Imanian — thoughtful Chrome extension engineer" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Mahan%20Imanian&fontSize=62&fontAlign=50&fontAlignY=34&desc=Thoughtful%20Chrome%20MV3%20extensions%20%E2%80%A2%20Local-first%20browser%20tools%20%E2%80%A2%20Calm%2C%20focused%20product%20interfaces&descSize=18&descAlign=50&descAlignY=56&animation=fadeIn&fontColor=f8fafc&color=0:0f172a,45:1e40af,75:6d28d9,100:db2777" />
+<img width="100%" alt="Mahan Imanian" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Mahan%20Imanian&fontSize=64&fontAlign=50&fontAlignY=34&desc=Chrome%20MV3%20Extensions%20%E2%80%A2%20Browser%20Automation%20%E2%80%A2%20Local-First%20Tools&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0d1117,45:1e3a8a,75:3730a3,100:581c87" />
 
 <img width="145" alt="Mahan Imanian profile image" src="https://github.com/Mahan-Imanian.png?size=300" />
 
