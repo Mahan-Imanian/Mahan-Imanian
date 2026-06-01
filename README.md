@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img alt="Typing headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=700&center=true&vCenter=true&width=900&height=56&color=58A6FF&lines=Building%%20browser%20apps%20and%20tools;Game%20loops%2C%20dashboards%2C%20and%20practical%20UX;LiveDash%20%E2%80%A2%20QueueTTS" />
+<img alt="Typing headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=700&center=true&vCenter=true&width=900&height=56&color=58A6FF&lines=Building%20browser%20apps%20and%20tools;Game%20loops%2C%20dashboards%2C%20and%20practical%20UX;LiveDash%20%E2%80%A2%20QueueTTS" />
 
 <br><br>
 
