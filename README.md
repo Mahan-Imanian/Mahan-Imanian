@@ -5,15 +5,15 @@
 <img width="145" alt="Mahan Imanian profile image" src="https://github.com/Mahan-Imanian.png?size=300" />
 <br><br>
 
-<img alt="Profile headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=750&center=true&vCenter=true&width=950&height=72&color=58A6FF&lines=Chrome%20MV3%20extension%20developer;Local-first%20browser%20tools%20with%20clean%2C%20fast%20interfaces;Side%20panels%2C%20new-tab%20dashboards%2C%20capture%20flows%2C%20and%20storage-heavy%20UI;Practical%20extensions%20for%20reading%2C%20workflow%2C%20and%20browser%20control;QueueTTS%20%E2%80%A2%20LiveDash" />
+<img alt="Profile headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=850&center=true&vCenter=true&width=950&height=72&color=58A6FF&lines=Chrome%20MV3%20extensions%20for%20real%20browser%20workflows;Text%20capture%2C%20TTS%20queues%2C%20new-tab%20dashboards%2C%20and%20side%20panels;Local-first%20tools%20with%20durable%20storage%20and%20clean%20state%20management;Practical%20interfaces%20built%20around%20speed%2C%20clarity%2C%20and%20daily%20use;QueueTTS%20%E2%80%A2%20LiveDash" />
 
 <br><br>
 
 <a href="https://github.com/Mahan-Imanian/QueueTTS">
-  <img alt="QueueTTS" src="https://img.shields.io/badge/QueueTTS-Text%20Capture%20%2B%20TTS%20Queue-c2410c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img alt="QueueTTS" src="https://img.shields.io/badge/QueueTTS-Selected%20Text%20to%20Speech%20Queue-c2410c?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://github.com/Mahan-Imanian/LiveDash">
-  <img alt="LiveDash" src="https://img.shields.io/badge/LiveDash-New%20Tab%20Dashboard-15803d?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img alt="LiveDash" src="https://img.shields.io/badge/LiveDash-New%20Tab%20Productivity%20Dashboard-15803d?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://www.linkedin.com/in/mahan-imanian">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mahan--imanian-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
@@ -22,11 +22,11 @@
 <br><br>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=facc15" />
-<img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=f97316" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css&logoColor=663399" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=f97316" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
 <img alt="Chrome MV3" src="https://img.shields.io/badge/Chrome%20MV3-0d1117?style=flat-square&logo=googlechrome&logoColor=22c55e" />
 <img alt="Web APIs" src="https://img.shields.io/badge/Web%20APIs-0d1117?style=flat-square&logo=mdnwebdocs&logoColor=ffffff" />
-<img alt="Local Storage" src="https://img.shields.io/badge/Local%20Storage-0d1117?style=flat-square&logo=databricks&logoColor=ff3621" />
+<img alt="IndexedDB" src="https://img.shields.io/badge/IndexedDB-0d1117?style=flat-square&logo=databricks&logoColor=ff3621" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff" />
 
