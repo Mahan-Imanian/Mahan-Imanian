@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Mahan Imanian" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Mahan%20Imanian&fontSize=64&fontAlign=50&fontAlignY=34&desc=Chrome%20MV3%20Extensions%20%E2%80%A2%20Local-First%20Browser%20Tools%20%E2%80%A2%20Focused%20UI&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0d1117,45:2563eb,75:7c3aed,100:ec4899" />
+<img width="100%" alt="Mahan Imanian" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Mahan%20Imanian&fontSize=64&fontAlign=50&fontAlignY=34&desc=Chrome%20MV3%20Extensions%20%E2%80%A2%20Local-First%20Browser%20Tools%20%E2%80%A2%20UI/UX Design&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0d1117,45:2563eb,75:7c3aed,100:ec4899" />
 
 <img width="145" alt="Mahan Imanian profile image" src="https://github.com/Mahan-Imanian.png?size=300" />
 
