@@ -44,7 +44,7 @@
       <h2>
         <a href="https://github.com/Mahan-Imanian/QueueTTS">QueueTTS</a>
       </h2>
-      <p>Browser text-to-speech queue tool for controlled playback.</p>
+      <p>Browser text-to-speech queue tool for controlled playback</p>
       <a href="https://github.com/Mahan-Imanian/QueueTTS">
         <img alt="QueueTTS repository" src="https://img.shields.io/badge/Open-Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
       </a>
@@ -63,7 +63,7 @@
       <h2>
         <a href="https://github.com/Mahan-Imanian/LiveDash">LiveDash</a>
       </h2>
-      <p>Daily dashboard built for fast visibility and clean browser use.</p>
+      <p>Daily dashboard built for fast visibility and browser use</p>
       <a href="https://github.com/Mahan-Imanian/LiveDash">
         <img alt="LiveDash repository" src="https://img.shields.io/badge/Open-Repository-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
       </a>
