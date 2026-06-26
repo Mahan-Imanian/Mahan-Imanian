@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img alt="Headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3200&pause=900&center=true&vCenter=true&width=950&height=72&color=58A6FF&lines=Founder%20%40%20GreenTouch;Computer%20science%20%26%20AI;I%20build%20tools%20that%20live%20inside%20the%20browser;Algorithm%20Cockpit%20%C2%B7%20LiveDash%20%C2%B7%20QueueTTS" />
+<img alt="Headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3200&pause=900&center=true&vCenter=true&width=950&height=72&color=58A6FF&lines=Founder%20%40%20GreenTouch;Computer%20science%20%26%20AI;I%20build%20tools%20that%20live%20inside%20the%20browser;Algoscope%20%C2%B7%20LiveDash%20%C2%B7%20QueueTTS" />
 
 <br><br>
 
@@ -17,7 +17,7 @@
   <img alt="Repositories" src="https://img.shields.io/badge/Projects-View%20All-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/">
-  <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Algorithm%20Cockpit-15803d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
+  <img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Algoscope-15803d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
@@ -26,7 +26,7 @@
 
 ## About
 
-I'm Mahan, founder of GreenTouch. Most of what I build runs in the browser: a new tab page I actually want to keep open, a queue that reads articles back to me, a grid for watching pathfinding algorithms search. My background is computer science and I spend a lot of my time on AI.
+I'm Mahan, founder of GreenTouch. Most of what I build runs in the browser: a new tab page I actually want to keep open, a queue that reads articles back to me, a grid where you can watch search and machine-learning algorithms run. My background is computer science and I spend a lot of my time on AI.
 
 I tend to build the kind of tool that does something useful the second you open it and keeps your data on your own machine instead of a server. The projects below are all a version of that idea.
 
@@ -38,7 +38,7 @@ I tend to build the kind of tool that does something useful the second you open 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=facc15" />
 <img alt="React" src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
-<img alt="Vite" src="https://img.shields.io/badge/Vite%20%2F%20WXT-0d1117?style=flat-square&logo=vite&logoColor=a855f7" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=a855f7" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=22c55e" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=f97316" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
@@ -56,15 +56,15 @@ I tend to build the kind of tool that does something useful the second you open 
 
 </div>
 
-### 🧭 Algorithm Cockpit &nbsp;·&nbsp; <a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/">Live Demo →</a>
+### 🧭 Algoscope &nbsp;·&nbsp; <a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/">Live Demo →</a>
 
-Algorithm Cockpit records an algorithm run as a sequence of events and lets you replay it however you want. Draw walls and weighted cells on a grid, pick BFS, DFS, Dijkstra, or A\*, and move through the run one event at a time: every visited cell, every node added to the frontier, and on the sorting side every comparison and swap.
+Algoscope records an algorithm run as a sequence of events you can replay. Draw walls and weighted cells on a grid, pick BFS, DFS, Dijkstra, or A\*, and move through the run one event at a time. The same controls drive sorting (insertion, selection, bubble, quicksort) and a small machine-learning corner with k-means clustering and gradient descent.
 
-Pause whenever you want, drag the scrubber to any point, and put two moments from the same run next to each other. The state panel and the highlighted pseudocode follow wherever you land. Runs save locally and export as JSON, and it's all one static HTML page, so opening the file is the entire setup.
+Pause anywhere, scrub the timeline, and read the live state, metrics, and highlighted pseudocode beside the visualization. The algorithms live in a framework-free TypeScript core that the React interface renders, so the logic is unit-tested on its own and the UI is just a view onto the trace. CI and the Pages deploy both run on GitHub Actions.
 
 <p>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Pathfinding-BFS%20%C2%B7%20DFS%20%C2%B7%20Dijkstra%20%C2%B7%20A*-2563eb?style=flat-square&labelColor=0d1117" />
-  <img alt="Stack" src="https://img.shields.io/badge/Vanilla%20JS%20%C2%B7%20Zero%20Deps-facc15?style=flat-square&labelColor=0d1117" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/Pathfinding%20%C2%B7%20Sorting%20%C2%B7%20ML-2563eb?style=flat-square&labelColor=0d1117" />
+  <img alt="Stack" src="https://img.shields.io/badge/React%20%C2%B7%20TypeScript%20%C2%B7%20Vite-facc15?style=flat-square&labelColor=0d1117" />
   <img alt="stars" src="https://img.shields.io/github/stars/Mahan-Imanian/ML-Algorithm-Visualizer?style=flat-square&label=stars&logo=github&logoColor=white&color=2563eb&labelColor=0d1117" />
   <img alt="last commit" src="https://img.shields.io/github/last-commit/Mahan-Imanian/ML-Algorithm-Visualizer?style=flat-square&label=updated&logo=github&logoColor=white&color=0ea5e9&labelColor=0d1117" />
 </p>
@@ -117,32 +117,32 @@ Pause whenever you want, drag the scrubber to any point, and put two moments fro
 
 ## Under the hood
 
-All three projects are Chrome Manifest V3 extensions put together the same way. The UI lives in the standard extension surfaces (new tab, popup, side panel, options, service worker), state goes in `chrome.storage.local`, and nothing falls over when there's no server to reach. LiveDash will use a PHP/MySQL backend if you host one, but it drops back to local data when you don't.
+Two of these are Chrome Manifest V3 extensions and one is a standalone web app, but they share a habit: keep the state on the user's own machine and stay useful without a server.
+
+LiveDash and QueueTTS live in the standard extension surfaces (new tab, popup, side panel, options, service worker) with everything in `chrome.storage.local`. LiveDash will talk to a PHP/MySQL backend if you host one, and drops back to local data when you don't. Algoscope is a React and TypeScript app built on a framework-free algorithm core, so the algorithms are unit-tested on their own and the interface is just a view onto the trace. It ships through GitHub Actions to Pages.
 
 ```mermaid
 flowchart LR
-  subgraph Surfaces["Runtime surfaces"]
-    direction TB
-    NewTab["New tab"]
-    Popup["Toolbar popup"]
-    Panel["Side panel"]
-    Options["Options page"]
-    Worker["Service worker"]
+  subgraph Ext["Chrome MV3 extensions"]
+    LiveDash["📊 LiveDash"]
+    QueueTTS["🔊 QueueTTS"]
+  end
+  subgraph Web["Web app"]
+    Algoscope["🧭 Algoscope"]
   end
 
-  Surfaces --> Store[("Local state<br/>chrome.storage.local")]
-
-  Cockpit["🧭 Algorithm Cockpit"] -->|event trace| Surfaces
-  LiveDash["📊 LiveDash"] -->|React + WXT| Surfaces
-  QueueTTS["🔊 QueueTTS"] -->|chrome.tts| Surfaces
-
+  LiveDash --> Store[("Local state<br/>chrome.storage.local")]
+  QueueTTS --> Store
   LiveDash -.-> Backend[("PHP / MySQL<br/>optional backend")]
+
+  Algoscope --> Core["Framework-free<br/>TS core + tests"]
+  Algoscope --> Deploy[("GitHub Actions → Pages")]
 
   classDef proj fill:#111827,stroke:#a855f7,color:#fff,stroke-width:2px;
   classDef store fill:#111827,stroke:#22c55e,color:#fff,stroke-width:2px;
 
-  class Cockpit,LiveDash,QueueTTS proj;
-  class Store,Backend store;
+  class LiveDash,QueueTTS,Algoscope proj;
+  class Store,Backend,Core,Deploy store;
 ```
 
 ---
