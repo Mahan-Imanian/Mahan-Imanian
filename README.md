@@ -26,9 +26,9 @@
 
 ## About
 
-I'm Mahan. I run GreenTouch, and most days I'm building something that lives inside a browser tab: a new tab page worth keeping open, a reading queue that talks back, a grid where you can watch A\* feel its way around walls. Computer science and AI are the throughline behind all of it.
+I'm Mahan, founder of GreenTouch. Most of what I build runs in the browser: a new tab page I actually want to keep open, a queue that reads articles back to me, a grid for watching pathfinding algorithms search. My background is computer science and I spend a lot of my time on AI.
 
-The thing I keep optimizing for is whether a tool is useful the moment you open it, with your data sitting on your own machine instead of someone's server. That constraint shapes most of what I ship.
+I tend to build the kind of tool that does something useful the second you open it and keeps your data on your own machine instead of a server. The projects below are all a version of that idea.
 
 <br>
 
@@ -58,9 +58,9 @@ The thing I keep optimizing for is whether a tool is useful the moment you open 
 
 ### 🧭 Algorithm Cockpit &nbsp;·&nbsp; <a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/">Live Demo →</a>
 
-Most algorithm visualizers play one animation and stop. This one records the whole run as an event trace you can replay. Draw walls and weighted terrain onto a grid, pick BFS, DFS, Dijkstra, or A\*, and step through the result one event at a time. Every visited cell, every node pushed to the frontier, every comparison and swap on the sorting side is its own frame.
+Algorithm Cockpit records an algorithm run as a sequence of events and lets you replay it however you want. Draw walls and weighted cells on a grid, pick BFS, DFS, Dijkstra, or A\*, and move through the run one event at a time: every visited cell, every node added to the frontier, and on the sorting side every comparison and swap.
 
-Pause anywhere. Drag the scrubber back and forth across the timeline to line up two moments in the same run. The state panel and the highlighted pseudocode update right beside the grid as you go, and any run saves to local storage or exports as JSON. The whole thing is a single static page you can open straight from disk.
+Pause whenever you want, drag the scrubber to any point, and put two moments from the same run next to each other. The state panel and the highlighted pseudocode follow wherever you land. Runs save locally and export as JSON, and it's all one static HTML page, so opening the file is the entire setup.
 
 <p>
   <img alt="Algorithms" src="https://img.shields.io/badge/Pathfinding-BFS%20%C2%B7%20DFS%20%C2%B7%20Dijkstra%20%C2%B7%20A*-2563eb?style=flat-square&labelColor=0d1117" />
@@ -104,19 +104,20 @@ Pause anywhere. Drag the scrubber back and forth across the timeline to line up 
 
 <br>
 
+<img width="98%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahan-Imanian&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=a855f7&point=ffffff&area=true&area_color=1e3a8a&custom_title=Contribution%20Activity" />
+
+<br><br>
+
 <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Mahan-Imanian&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=a855f7&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" />
-
-<br>
-
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=58A6FF&bg_color=0d1117" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=58A6FF&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## How these are built
+## Under the hood
 
-The three projects rhyme. Each one is a Chrome Manifest V3 surface set sitting on top of client-side state, with no backend it can't run without.
+All three projects are Chrome Manifest V3 extensions put together the same way. The UI lives in the standard extension surfaces (new tab, popup, side panel, options, service worker), state goes in `chrome.storage.local`, and nothing falls over when there's no server to reach. LiveDash will use a PHP/MySQL backend if you host one, but it drops back to local data when you don't.
 
 ```mermaid
 flowchart LR
@@ -137,7 +138,6 @@ flowchart LR
 
   LiveDash -.-> Backend[("PHP / MySQL<br/>optional backend")]
 
-  classDef core fill:#0d1117,stroke:#38bdf8,color:#fff,stroke-width:2px;
   classDef proj fill:#111827,stroke:#a855f7,color:#fff,stroke-width:2px;
   classDef store fill:#111827,stroke:#22c55e,color:#fff,stroke-width:2px;
 
