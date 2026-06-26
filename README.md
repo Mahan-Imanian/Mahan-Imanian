@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" alt="Mahan Imanian" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Mahan%20Imanian&fontSize=64&fontAlign=50&fontAlignY=34&desc=Founder%20%40%20GreenTouch%20%E2%80%A2%20Browser-Native%20Tools%20%E2%80%A2%20CS%20%2F%20AI&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0d1117,45:1e3a8a,75:3730a3,100:581c87" />
+<img width="100%" alt="Mahan Imanian" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Mahan%20Imanian&fontSize=64&fontAlign=50&fontAlignY=34&desc=Founder%20%40%20GreenTouch%20%E2%80%A2%20Local-First%20Browser%20Tools%20%E2%80%A2%20CS%20%2F%20AI&descSize=18&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=ffffff&color=0:0d1117,45:1e3a8a,75:3730a3,100:581c87" />
 
-<img width="135" alt="Mahan Imanian" src="https://github.com/Mahan-Imanian.png?size=300" style="border-radius:50%;" />
+<img width="135" alt="Mahan Imanian" src="https://github.com/Mahan-Imanian.png?size=300" />
 
 <br><br>
 
-<img alt="Headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3200&pause=900&center=true&vCenter=true&width=950&height=72&color=58A6FF&lines=Founder%20%40%20GreenTouch%20%E2%80%94%20CS%20%26%20AI;I%20build%20browser-native%2C%20local-first%20tools;Algorithm%20visualizers%2C%20new-tab%20dashboards%2C%20speech%20queues;Algorithm%20Cockpit%20%E2%80%A2%20LiveDash%20%E2%80%A2%20QueueTTS" />
+<img alt="Headline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3200&pause=900&center=true&vCenter=true&width=950&height=72&color=58A6FF&lines=Founder%20%40%20GreenTouch;Computer%20science%20%26%20AI;I%20build%20tools%20that%20live%20inside%20the%20browser;Algorithm%20Cockpit%20%C2%B7%20LiveDash%20%C2%B7%20QueueTTS" />
 
 <br><br>
 
@@ -24,11 +24,11 @@
 
 ---
 
-## 👋 About
+## About
 
-I'm Mahan — founder of **GreenTouch**, studying CS with a side focus on AI. Most of what I build runs entirely in the browser: no backend, no accounts, local storage only.
+I'm Mahan. I run GreenTouch, and most days I'm building something that lives inside a browser tab: a new tab page worth keeping open, a reading queue that talks back, a grid where you can watch A\* feel its way around walls. Computer science and AI are the throughline behind all of it.
 
-The things I keep coming back to are surfaces people hit constantly — a new tab page, selected text, an algorithm you want to actually *see* step through. Keep the action count low, keep the data local.
+The thing I keep optimizing for is whether a tool is useful the moment you open it, with your data sitting on your own machine instead of someone's server. That constraint shapes most of what I ship.
 
 <br>
 
@@ -58,9 +58,9 @@ The things I keep coming back to are surfaces people hit constantly — a new ta
 
 ### 🧭 Algorithm Cockpit &nbsp;·&nbsp; <a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/">Live Demo →</a>
 
-An in-browser tool for stepping through **pathfinding** and **sorting** algorithms event by event. Draw a grid, drop walls and weighted terrain, pick an algorithm, and watch the frontier, visited cells, and current node evolve — or drag the scrubber back to compare any two states in a run.
+Most algorithm visualizers play one animation and stop. This one records the whole run as an event trace you can replay. Draw walls and weighted terrain onto a grid, pick BFS, DFS, Dijkstra, or A\*, and step through the result one event at a time. Every visited cell, every node pushed to the frontier, every comparison and swap on the sorting side is its own frame.
 
-Most visualizers just play through an animation. This one records the full run as an event log you can move through freely: pause anywhere, step forward or back one event at a time, and read the live state panel and pseudocode alongside it. Runs export as JSON. **No install, no build step.**
+Pause anywhere. Drag the scrubber back and forth across the timeline to line up two moments in the same run. The state panel and the highlighted pseudocode update right beside the grid as you go, and any run saves to local storage or exports as JSON. The whole thing is a single static page you can open straight from disk.
 
 <p>
   <img alt="Algorithms" src="https://img.shields.io/badge/Pathfinding-BFS%20%C2%B7%20DFS%20%C2%B7%20Dijkstra%20%C2%B7%20A*-2563eb?style=flat-square&labelColor=0d1117" />
@@ -73,8 +73,8 @@ Most visualizers just play through an animation. This one records the full run a
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mahan-Imanian/LiveDash">📊 LiveDash</a></h3>
-      <p>A <b>new-tab replacement</b> with animated frosted-glass widgets: calendar, notes, todos, bookmarks, weather, news, translation, and currency.</p>
-      <p>Chrome MV3 extension built with <b>React, TypeScript, Tailwind, WXT, and Workbox</b>. Local fallback data keeps the UI rendering offline. Ships a Google sign-in flow and a MySQL/PHP backend starter if you need server-side state.</p>
+      <p>LiveDash takes over the new tab page and fills it with the widgets you'd otherwise scatter across separate tabs: calendar, notes, todos, bookmarks, weather, news, a translator, and currency conversion.</p>
+      <p>The frontend is React and TypeScript with Tailwind, packaged into a Chrome MV3 extension through WXT and Workbox. Every widget keeps a local sample-data fallback, so the page still renders when the backend is offline. A Google sign-in flow and a PHP/MySQL backend starter are included for anyone hosting their own instance.</p>
       <p>
         <img alt="LiveDash stack" src="https://img.shields.io/badge/React%20%C2%B7%20TS%20%C2%B7%20Tailwind-15803d?style=flat-square&labelColor=0d1117" /><br>
         <img alt="stars" src="https://img.shields.io/github/stars/Mahan-Imanian/LiveDash?style=flat-square&label=stars&logo=github&logoColor=white&color=22c55e&labelColor=0d1117" />
@@ -84,8 +84,8 @@ Most visualizers just play through an animation. This one records the full run a
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mahan-Imanian/QueueTTS">🔊 QueueTTS</a></h3>
-      <p>A <b>text-to-speech queue</b> for the browser. Select text on any page — or let it pull the full readable content — add it to a queue, and play it back later through Chrome's built-in speech engine.</p>
-      <p>Chrome MV3, Chrome 116+. Uses <code>chrome.storage.local</code> for the queue, the <code>tts</code> API for playback, context-menu capture, and a side panel for full queue management, plus popup, options, and background-worker surfaces.</p>
+      <p>Found something long you don't have time to read right now? QueueTTS grabs the selected text or the full article, lines it up in a queue, and reads it back through Chrome's speech engine whenever you're ready for it.</p>
+      <p>Capture runs off the right-click menu. The side panel manages the queue, and the options page covers voice, speed, and pronunciation. Queue and settings live in <code>chrome.storage.local</code>, and it targets Chrome 116 and up on Manifest V3.</p>
       <p>
         <img alt="QueueTTS stack" src="https://img.shields.io/badge/Vanilla%20JS%20%C2%B7%20chrome.tts-c2410c?style=flat-square&labelColor=0d1117" /><br>
         <img alt="stars" src="https://img.shields.io/github/stars/Mahan-Imanian/QueueTTS?style=flat-square&label=stars&logo=github&logoColor=white&color=f97316&labelColor=0d1117" />
@@ -104,16 +104,19 @@ Most visualizers just play through an animation. This one records the full run a
 
 <br>
 
-<img height="165" alt="Mahan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mahan-Imanian&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=58A6FF&icon_color=a855f7&bg_color=0d1117" />
+<img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Mahan-Imanian&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=a855f7&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" />
+
+<br>
+
 <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Imanian&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=58A6FF&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🧩 How these tools are built
+## How these are built
 
-Every project shares the same spine: a Chrome Manifest V3 surface set, client-side state, and zero required backend.
+The three projects rhyme. Each one is a Chrome Manifest V3 surface set sitting on top of client-side state, with no backend it can't run without.
 
 ```mermaid
 flowchart LR
@@ -146,7 +149,7 @@ flowchart LR
 
 <div align="center">
 
-<sub>Everything here runs entirely in the browser.</sub>
+<sub>Open to collaboration on browser tooling and CS / AI work.</sub>
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:581c87,50:3730a3,100:0d1117" />
 
