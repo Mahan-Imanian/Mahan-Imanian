@@ -26,9 +26,9 @@
 
 ## 👋 About
 
-I'm Mahan — founder of **GreenTouch** and a CS / AI builder. I design and ship **browser-native, local-first tools**: software that runs entirely in the browser with no required backend, no accounts, and storage that stays on the user's machine.
+I'm Mahan — founder of **GreenTouch**, studying CS with a side focus on AI. Most of what I build runs entirely in the browser: no backend, no accounts, local storage only.
 
-My focus is practical UX over the things people touch every day — a new tab page, selected text, a search algorithm you want to actually *see* run. Capture or organize something locally, then make it reachable in one or two actions.
+The things I keep coming back to are surfaces people hit constantly — a new tab page, selected text, an algorithm you want to actually *see* step through. Keep the action count low, keep the data local.
 
 <br>
 
@@ -58,9 +58,9 @@ My focus is practical UX over the things people touch every day — a new tab pa
 
 ### 🧭 Algorithm Cockpit &nbsp;·&nbsp; <a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/">Live Demo →</a>
 
-A browser-native workbench for stepping through **pathfinding** and **sorting** algorithms one event at a time. Build a grid, draw walls and weighted terrain, pick an algorithm, and watch the frontier, visited cells, current node, and final path evolve — or scrub backwards through the timeline to compare any two moments in a run.
+An in-browser tool for stepping through **pathfinding** and **sorting** algorithms event by event. Draw a grid, drop walls and weighted terrain, pick an algorithm, and watch the frontier, visited cells, and current node evolve — or drag the scrubber back to compare any two states in a run.
 
-Unlike most visualizers that just play an animation, Algorithm Cockpit records the **entire run as a replayable event trace**: pause mid-run, step forward or back one event at a time, drag the scrubber anywhere, and read the live state panel and highlighted pseudocode alongside it. Runs save locally and export as JSON. **No install, no build step, no dependencies.**
+Most visualizers just play through an animation. This one records the full run as an event log you can move through freely: pause anywhere, step forward or back one event at a time, and read the live state panel and pseudocode alongside it. Runs export as JSON. **No install, no build step.**
 
 <p>
   <img alt="Algorithms" src="https://img.shields.io/badge/Pathfinding-BFS%20%C2%B7%20DFS%20%C2%B7%20Dijkstra%20%C2%B7%20A*-2563eb?style=flat-square&labelColor=0d1117" />
@@ -73,8 +73,8 @@ Unlike most visualizers that just play an animation, Algorithm Cockpit records t
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mahan-Imanian/LiveDash">📊 LiveDash</a></h3>
-      <p>A smart <b>new-tab dashboard</b> that replaces the browser's new tab page with animated, glass-style widgets: calendar, notes, todos, bookmarks, weather, news, translation, and currency tools.</p>
-      <p>Built as a Chrome MV3 extension with <b>React, TypeScript, Tailwind, WXT, and Workbox</b>, with local fallback data so the UI still renders when offline. Ships a Google sign-in flow and a MySQL/PHP backend starter.</p>
+      <p>A <b>new-tab replacement</b> with animated frosted-glass widgets: calendar, notes, todos, bookmarks, weather, news, translation, and currency.</p>
+      <p>Chrome MV3 extension built with <b>React, TypeScript, Tailwind, WXT, and Workbox</b>. Local fallback data keeps the UI rendering offline. Ships a Google sign-in flow and a MySQL/PHP backend starter if you need server-side state.</p>
       <p>
         <img alt="LiveDash stack" src="https://img.shields.io/badge/React%20%C2%B7%20TS%20%C2%B7%20Tailwind-15803d?style=flat-square&labelColor=0d1117" /><br>
         <img alt="stars" src="https://img.shields.io/github/stars/Mahan-Imanian/LiveDash?style=flat-square&label=stars&logo=github&logoColor=white&color=22c55e&labelColor=0d1117" />
@@ -84,7 +84,7 @@ Unlike most visualizers that just play an animation, Algorithm Cockpit records t
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Mahan-Imanian/QueueTTS">🔊 QueueTTS</a></h3>
-      <p>A <b>local-first text-to-speech queue</b>. Capture selected text or full readable page text into a playback queue and listen later through Chrome's built-in speech engine — a "read it to me later" workflow for the browser.</p>
+      <p>A <b>text-to-speech queue</b> for the browser. Select text on any page — or let it pull the full readable content — add it to a queue, and play it back later through Chrome's built-in speech engine.</p>
       <p>Chrome MV3, Chrome 116+. Uses <code>chrome.storage.local</code> for the queue, the <code>tts</code> API for playback, context-menu capture, and a side panel for full queue management, plus popup, options, and background-worker surfaces.</p>
       <p>
         <img alt="QueueTTS stack" src="https://img.shields.io/badge/Vanilla%20JS%20%C2%B7%20chrome.tts-c2410c?style=flat-square&labelColor=0d1117" /><br>
@@ -146,7 +146,7 @@ flowchart LR
 
 <div align="center">
 
-<sub>Building tools that run where the work already happens — the browser.</sub>
+<sub>Everything here runs entirely in the browser.</sub>
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:581c87,50:3730a3,100:0d1117" />
 
