@@ -44,8 +44,6 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
   </tr>
 </table>
 
-**Also building:** Studio Agent, a local control room that runs Claude Code against the place open in Roblox Studio through Studio's built-in MCP server. Not public yet.
-
 <br>
 
 <p align="center"><sub>Open to collaboration on developer tools, browser software and CS / AI work · <a href="https://www.linkedin.com/in/mahan-imanian">LinkedIn</a></sub></p>
