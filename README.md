@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://codersays.com"><img alt="CoderSays is live at codersays.com" src="https://img.shields.io/badge/codersays.com-live-ff8f4a?style=flat-square&labelColor=0b0d10"></a>
-  <a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/"><img alt="Algoscope live demo" src="https://img.shields.io/badge/algoscope-live_demo-ff6a3d?style=flat-square&labelColor=141719"></a>
+  <a href="https://mahan-imanian.github.io/stride/"><img alt="Stride live demo" src="https://img.shields.io/badge/stride-live_demo-ff6a3d?style=flat-square&labelColor=141719"></a>
   <a href="https://www.linkedin.com/in/mahan-imanian"><img alt="LinkedIn: mahan-imanian" src="https://img.shields.io/badge/LinkedIn-mahan--imanian-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
 </p>
 
@@ -22,10 +22,10 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
       <p><sub><b>Live</b> · 335 comparisons across 18 packages · Laravel, TypeScript, Python · MCP server for agents in progress</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/ML-Algorithm-Visualizer"><img alt="Algoscope: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-algoscope.png" width="100%"></a>
-      <h3><a href="https://github.com/Mahan-Imanian/ML-Algorithm-Visualizer">Algoscope</a></h3>
+      <a href="https://github.com/Mahan-Imanian/stride"><img alt="Stride: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-stride.png" width="100%"></a>
+      <h3><a href="https://github.com/Mahan-Imanian/stride">Stride</a></h3>
       <p>An algorithm lab that records every operation and plays it back beside the queue, heap or call stack the algorithm is deciding from. Put two algorithms on the same input and it tells you how they differ, down to the first cell where they split.</p>
-      <p><sub><a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/"><b>Live demo</b></a> · 18 algorithms, each tested against a reference implementation · React, TypeScript, Vite</sub></p>
+      <p><sub><a href="https://mahan-imanian.github.io/stride/"><b>Live demo</b></a> · 18 algorithms, each tested against a reference implementation · React, TypeScript, Vite</sub></p>
     </td>
   </tr>
   <tr>
