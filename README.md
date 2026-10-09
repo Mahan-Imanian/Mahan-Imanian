@@ -18,14 +18,14 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
     <td width="50%" valign="top">
       <a href="https://codersays.com"><img alt="CoderSays: a comparison page showing what changed in ESLint's public API between 9.39.5 and 10.0.0" src="assets/card-codersays.png" width="100%"></a>
       <h3><a href="https://codersays.com">CoderSays</a></h3>
-      <p>Pick two versions of an npm or PyPI package and see exactly which public functions, classes and types were added, removed or changed, read from what the registry actually publishes. Every page has a JSON twin, so scripts and coding agents can use it too.</p>
+      <p>Pick two versions of an npm or PyPI package and see exactly which public functions, classes and types were added, removed or changed, read from the published package files. Each page is also served as JSON, so scripts and coding agents can query it.</p>
       <p><sub><b>Live</b> · 335 comparisons across 18 packages · Laravel, TypeScript, Python · MCP server for agents in progress</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Mahan-Imanian/ML-Algorithm-Visualizer"><img alt="Algoscope: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-algoscope.png" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/ML-Algorithm-Visualizer">Algoscope</a></h3>
       <p>An algorithm lab that records every operation and plays it back beside the queue, heap or call stack the algorithm is deciding from. Put two algorithms on the same input and it tells you how they differ, down to the first cell where they split.</p>
-      <p><sub><a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/"><b>Live demo</b></a> · 18 algorithms · 195 tests · React, TypeScript, Vite</sub></p>
+      <p><sub><a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/"><b>Live demo</b></a> · 18 algorithms, each tested against a reference implementation · React, TypeScript, Vite</sub></p>
     </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
       <a href="https://github.com/Mahan-Imanian/QueueTTS"><img alt="QueueTTS: the popup over a news article, reading aloud with the current word underlined and two more articles waiting" src="assets/card-queuetts.png" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/QueueTTS">QueueTTS</a></h3>
       <p>A listen-later queue for the web. Save an article with one shortcut, and it's read aloud in order with the voices you already have, picking up at the sentence where you stopped, even after a restart.</p>
-      <p><sub>Chrome extension · no host permissions · plain JavaScript · 46 end-to-end tests</sub></p>
+      <p><sub>Chrome extension · no host permissions · plain JavaScript · end-to-end tested in Chrome</sub></p>
     </td>
   </tr>
 </table>
