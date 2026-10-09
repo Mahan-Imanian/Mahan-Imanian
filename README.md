@@ -5,12 +5,12 @@
 
 Founder of GreenTouch. I build tools for developers: an API diff checker for npm and PyPI, an algorithm lab, and browser extensions that keep your data on your machine.
 
-I study computer science and AI<!-- TODO(mahan): university and program -->, have taken freelance web projects since 2023<!-- TODO(mahan): link 1–3 client sites you can name -->, and made Roblox games before any of this.<!-- TODO(mahan): game names + links, or cut this clause -->
+I study computer science and AI, have taken freelance web projects since 2023, and made Roblox games before any of this.
 
 ### Now
 
 - **[CoderSays](https://codersays.com)** — shows what actually changed in a package's public API between two versions, read from what npm and PyPI publish. Every page has a JSON twin. 335 comparisons across 18 packages so far; an MCP server for coding agents is next.
-- **GreenTouch** — a cleantech startup I founded.<!-- TODO(mahan): one-line description + URL (greentouch-solutions.ir?) -->
+- **GreenTouch** — a cleantech startup I founded.
 
 ### Selected work
 
@@ -21,4 +21,4 @@ I study computer science and AI<!-- TODO(mahan): university and program -->, hav
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/mahan-imanian) · [codersays.com](https://codersays.com)<!-- TODO(mahan): add an email if you want one listed -->
+[LinkedIn](https://www.linkedin.com/in/mahan-imanian) · [codersays.com](https://codersays.com)
