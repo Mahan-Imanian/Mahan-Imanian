@@ -22,17 +22,17 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
       <p><sub><b>Live</b> · 335 comparisons across 18 packages · Laravel, TypeScript, Python · MCP server for agents in progress</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/ML-Algorithm-Visualizer"><img alt="Algoscope: Dijkstra and A* running side by side on one weighted grid, with the min-heap and pseudocode beside it" src="assets/card-algoscope.png" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/ML-Algorithm-Visualizer"><img alt="Algoscope: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-algoscope.png" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/ML-Algorithm-Visualizer">Algoscope</a></h3>
       <p>An algorithm lab that records every operation and plays it back beside the queue, heap or call stack the algorithm is deciding from. Put two algorithms on the same input and it tells you how they differ, down to the first cell where they split.</p>
-      <p><sub><a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/"><b>Live demo</b></a> · 18 algorithms · 100 tests · React, TypeScript, Vite</sub></p>
+      <p><sub><a href="https://mahan-imanian.github.io/ML-Algorithm-Visualizer/"><b>Live demo</b></a> · 18 algorithms · 195 tests · React, TypeScript, Vite</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/LiveDash"><img alt="LiveDash: a Chrome new tab with a serif search line, numbered shortcut keys and columns for picking up, today and notes" src="assets/card-livedash.png" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/LiveDash"><img alt="LiveDash: a Chrome new tab laid out like a newspaper front page, with the date as the headline, the next meeting beside it, the search line and numbered shortcut keys" src="assets/card-livedash.png" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/LiveDash">LiveDash</a></h3>
-      <p>A new tab page for Chrome. Type two letters and the top hit is the tab you already have open; below it sit numbered shortcut keys, today's tasks and meetings, and your notes. Every feature that goes online is opt-in.</p>
+      <p>A Chrome new tab laid out like a front page: the date as the headline, your next meeting as the lead story with a countdown, and one search line that finds the tab you already have open before it searches the web. Every feature that goes online is opt-in.</p>
       <p><sub>Chrome extension · React, TypeScript, WXT · MIT</sub></p>
     </td>
     <td width="50%" valign="top">
