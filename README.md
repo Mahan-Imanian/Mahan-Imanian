@@ -42,6 +42,14 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
       <p><sub>Chrome extension · no host permissions · plain JavaScript · end-to-end tested in Chrome</sub></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/Mahan-Imanian/netcheck"><img alt="Netcheck: a live check showing Vienna at 83 ms with 0% loss, a world map of every Valve region, and the fastest regions" src="assets/card-netcheck.png" width="100%"></a>
+      <h3><a href="https://github.com/Mahan-Imanian/netcheck">Netcheck</a></h3>
+      <p>A Windows app for Counter-Strike 2 players. Before a match it pings every Valve server region, shows ping, jitter and packet loss for each, and traces the route to the fastest one, so you can see whether lag comes from your Wi-Fi, your ISP, the international link or Valve.</p>
+      <p><sub><a href="https://github.com/Mahan-Imanian/netcheck/releases/latest"><b>Download</b></a> · Windows 11 · Rust, Tauri, React, TypeScript · MIT</sub></p>
+    </td>
+  </tr>
 </table>
 
 <br>
