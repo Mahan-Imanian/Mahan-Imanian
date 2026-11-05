@@ -50,6 +50,14 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
       <p><sub><a href="https://github.com/Mahan-Imanian/netcheck/releases/latest"><b>Download</b></a> · Windows 11 · Rust, Tauri, React, TypeScript · MIT</sub></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/Mahan-Imanian/protonaut"><img alt="Protonaut: test Windows games on Proton in CI, next to a real pull request comment reporting a build that crashed under GE-Proton" src="assets/card-protonaut.png" width="100%"></a>
+      <h3><a href="https://github.com/Mahan-Imanian/protonaut">Protonaut</a></h3>
+      <p>A GitHub Action and CLI that runs a Windows game build under GE-Proton on every pull request. When a change makes the game crash or render black, the PR goes red with screenshots and logs, and you don't need a Steam Deck to catch it. An independent project, not affiliated with Valve.</p>
+      <p><sub><a href="https://mahan-imanian.github.io/protonaut/"><b>Website</b></a> · <a href="https://github.com/Mahan-Imanian/protonaut-demo/pull/1">Live demo PR</a> · Rust · Apache-2.0</sub></p>
+    </td>
+  </tr>
 </table>
 
 <br>
