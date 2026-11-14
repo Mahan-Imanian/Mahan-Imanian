@@ -18,8 +18,8 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
     <td width="50%" valign="top">
       <a href="https://codersays.com"><img alt="CoderSays: the opportunity 'A CI check that catches agent skill updates that change behaviour', marked worth a test, with a bar per claim and the steps from what changed through to the assessment" src="assets/card-codersays.png" width="100%"></a>
       <h3><a href="https://codersays.com">CoderSays</a></h3>
-      <p>Research for deciding what to build next. Official changes, reported problems and new open-source work go through a six-step investigation that keeps sourced claims apart from inference. Each one ends in a verdict, the cheapest test to run next, and a build plan.</p>
-      <p><sub><b>Live</b> · 6 opportunities researched from 2,228 public observations across 14 connected sources</sub></p>
+      <p>Research for deciding what to build next. Changelogs and public code go in; claims come out tagged by whether a source states them or they are inference. Each opportunity ends in a verdict, and most of those are refusals, published with the working shown.</p>
+      <p><sub><b>Live</b> · 2,246 observations read · 56 claims classified · 6 verdicts · 2 cleared to build</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Mahan-Imanian/stride"><img alt="Stride: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-stride.png" width="100%"></a>
