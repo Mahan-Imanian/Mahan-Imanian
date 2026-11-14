@@ -16,10 +16,10 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://codersays.com"><img alt="CoderSays: a comparison page showing what changed in ESLint's public API between 9.39.5 and 10.0.0" src="assets/card-codersays.png" width="100%"></a>
+      <a href="https://codersays.com"><img alt="CoderSays: the opportunity 'A CI check that catches agent skill updates that change behaviour', marked worth a test, with a bar per claim and the steps from what changed through to the assessment" src="assets/card-codersays.gif" width="100%"></a>
       <h3><a href="https://codersays.com">CoderSays</a></h3>
-      <p>Pick two versions of an npm or PyPI package and see exactly which public functions, classes and types were added, removed or changed, read from the published package files. Each page is also served as JSON, so scripts and coding agents can query it.</p>
-      <p><sub><b>Live</b> · 335 comparisons across 18 packages · Laravel, TypeScript, Python · MCP server for agents in progress</sub></p>
+      <p>Research for deciding what to build next. It picks up official changes, reported problems and new open-source work, puts each through a six-step investigation that keeps what a source actually states apart from what is inference, and ends with a verdict, the cheapest next test, and a build plan. Some of them say don't build.</p>
+      <p><sub><b>Live</b> · 6 opportunities researched from 2,228 public observations across 14 connected sources</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Mahan-Imanian/stride"><img alt="Stride: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-stride.png" width="100%"></a>
