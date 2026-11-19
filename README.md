@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg">
-  <img alt="Mahan Imanian. Developer, founder at GreenTouch. Developer tools and browser software that keep your data on your machine." src="assets/banner-light.jpg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.jpg">
+  <img alt="Mahan Imanian, founder of CoderSays. Developer tools and browser software. Beside the name, a real A* search on a grid: 193 cells expanded around the walls and a 35-step path to the target." src="assets/header-light.jpg" width="100%">
 </picture>
 
-I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science and AI, have built websites for freelance clients since 2023, and made Roblox games before any of that. Most of what I ship now is developer tooling and software that runs in the browser.
+I’m Mahan, founder of CoderSays. I build developer tools and browser software, and the thread through all of it is showing the working: the evidence behind a verdict, every step of an algorithm, each hop on a network route. I study computer science and AI, and I’ve built websites for clients since 2023.
 
 <p><a href="https://codersays.com">codersays.com</a> · <a href="https://www.linkedin.com/in/mahan-imanian">LinkedIn</a></p>
 
