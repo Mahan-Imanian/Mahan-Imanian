@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://codersays.com"><img alt="CoderSays is live at codersays.com" src="https://img.shields.io/badge/codersays.com-live-ff8f4a?style=flat-square&labelColor=0b0d10"></a>
-  <a href="https://mahan-imanian.github.io/stride/"><img alt="Stride live demo" src="https://img.shields.io/badge/stride-live_demo-ff6a3d?style=flat-square&labelColor=141719"></a>
+  <a href="https://mahan-imanian.github.io/Stride/"><img alt="Stride live demo" src="https://img.shields.io/badge/stride-live_demo-ff6a3d?style=flat-square&labelColor=141719"></a>
   <a href="https://www.linkedin.com/in/mahan-imanian"><img alt="LinkedIn: mahan-imanian" src="https://img.shields.io/badge/LinkedIn-mahan--imanian-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
 </p>
 
@@ -22,10 +22,10 @@ I'm Mahan, founder of GreenTouch, a cleantech startup. I study computer science 
       <p><sub><b>Live</b> · 2,246 observations read · 56 claims classified · 6 verdicts · 2 cleared to build</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/stride"><img alt="Stride: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-stride.png" width="100%"></a>
-      <h3><a href="https://github.com/Mahan-Imanian/stride">Stride</a></h3>
+      <a href="https://github.com/Mahan-Imanian/Stride"><img alt="Stride: A* and Dijkstra run on the same grid; both find a path of the same cost, A* after expanding far fewer cells" src="assets/card-stride.png" width="100%"></a>
+      <h3><a href="https://github.com/Mahan-Imanian/Stride">Stride</a></h3>
       <p>An algorithm visualiser that replays every operation beside the queue, heap or call stack behind it. Run two algorithms on the same input and it finds the first step where they diverge.</p>
-      <p><sub><a href="https://mahan-imanian.github.io/stride/"><b>Live demo</b></a> · 18 algorithms, each tested against a reference implementation · React, TypeScript, Vite</sub></p>
+      <p><sub><a href="https://mahan-imanian.github.io/Stride/"><b>Live demo</b></a> · 18 algorithms, each tested against a reference implementation · React, TypeScript, Vite</sub></p>
     </td>
   </tr>
   <tr>
