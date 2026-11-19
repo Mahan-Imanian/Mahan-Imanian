@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.jpg">
-  <img alt="Mahan Imanian, founder of CoderSays. Developer tools and browser software. Beside the name, a real A* search on a grid: 193 cells expanded around the walls and a 35-step path to the target." src="assets/header-light.jpg" width="100%">
-</picture>
+<img alt="Mahan Imanian, founder of CoderSays. Developer tools and browser software. Beside the name, a sheet of graph paper in a shaft of warm light, with a pencil route stepping across it to a circled point." src="assets/header-scene.jpg" width="100%">
 
 I’m Mahan, founder of CoderSays. I build developer tools and browser software, and the thread through all of it is showing the working: the evidence behind a verdict, every step of an algorithm, each hop on a network route. I study computer science and AI, and I’ve built websites for clients since 2023.
 
