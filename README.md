@@ -1,6 +1,6 @@
 <img alt="Mahan Imanian, founder of CoderSays. Developer tools and browser software. Beside the name, a sheet of graph paper in a shaft of warm light, with a pencil route stepping across it to a circled point." src="assets/header-scene.jpg" width="100%">
 
-Hi Stranger! I'm Mahan. someone who likes to spend most of his time building developer tools and browser software. Sucker for computer science and AI and have been building websites for clients since 2023 :D
+Hi Stranger! I'm Mahan. Someone who likes to spend most of his time building tools for developers & businesses and sometimes browser software for the love of the game. Sucker for computer science and AI and have been building websites for clients since 2023 :D
 
 <p><a href="https://codersays.com">codersays.com</a> · <a href="https://www.linkedin.com/in/mahan-imanian">LinkedIn</a></p>
 
