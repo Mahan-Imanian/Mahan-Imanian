@@ -48,7 +48,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <p><sub>Chrome extension · React, TypeScript, WXT · MIT</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/QueueTTS"><img alt="QueueTTS: Save it now. Hear it later, mid-sentence. Beside it, the popup over a blog post, reading an article aloud with the current word underlined and two more queued." src="assets/tile-queuetts.jpg" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/QueueTTS"><img alt="QueueTTS: Save it now. Hear it later, mid-sentence. Beside it, the side panel next to a news article, with the sentence being read in large type and the spoken word underlined." src="assets/tile-queuetts.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/QueueTTS">QueueTTS</a></h3>
       <p>Save an article with a shortcut and it joins a queue to be read aloud, in order, using the voices already on the machine. Close the tab or restart the browser and it resumes at the sentence you left.
 </p>
