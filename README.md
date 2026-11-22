@@ -16,9 +16,9 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <p><sub><b>Live</b> at <a href="https://codersays.com">codersays.com</a> · Laravel</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/Stride"><img alt="Stride: Watch every step, beside the data it reads. Beside it, the lab 230 steps into Dijkstra and A* on one grid, with Dijkstra’s pseudocode and its min-heap." src="assets/tile-stride.jpg" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/Stride"><img alt="Stride: Watch every step, beside the data it reads. Beside it, the lab 230 steps into Dijkstra and A* on one blackboard grid, each run hatched its own way, with both step captions underneath." src="assets/tile-stride.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/Stride">Stride</a></h3>
-      <p>An algorithm lab that records every operation of a run and plays it back beside the queue, heap or call stack behind it. Two algorithms can run on the same input, so their counts compare directly. Now being redesigned for lecture halls: big type, a blackboard theme, and patterns that still read on a dim projector.
+      <p>An algorithm lab for lectures and self-study. It records every step of a run and plays it back beside the queue, heap or call stack, and two algorithms can run on the same input to compare their counts.
 </p>
       <p><sub><a href="https://mahan-imanian.github.io/Stride/"><b>Live demo</b></a> · 18 algorithms, each tested against a reference implementation · React, TypeScript, Vite · MIT</sub></p>
     </td>
