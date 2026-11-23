@@ -41,7 +41,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/LiveDash"><img alt="LiveDash: Find what you read, by what it said. Beside it, the new tab over a photo of a river city at dusk, with the search line and a sentence read six days ago." src="assets/tile-livedash.jpg" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/LiveDash"><img alt="LiveDash: Find any page by the one line you remember. Beside it, the new tab over a photo of a river city at dusk, with the search line and a sentence read six days ago." src="assets/tile-livedash.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/LiveDash">LiveDash</a></h3>
       <p>A Chrome new tab that finds any page you've read by a sentence you remember. It keeps the text of pages you read on your computer, shows the matching sentence with when you read it, and opens the page at that sentence. No account, no server, no AI.
 </p>
