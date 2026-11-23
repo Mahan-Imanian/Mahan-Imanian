@@ -41,9 +41,9 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/LiveDash"><img alt="LiveDash: Your day, laid out like a front page. Beside it, the new tab with Sunday, November 22 as the headline, Design review next up, the search line and shortcut keys." src="assets/tile-livedash.jpg" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/LiveDash"><img alt="LiveDash: Find what you read, by what it said. Beside it, the new tab after typing partial index: the matching sentence from a page read Tuesday, three more pages, and a web search row." src="assets/tile-livedash.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/LiveDash">LiveDash</a></h3>
-      <p>A Chrome new tab laid out like a newspaper: the date as the headline, the next meeting as the lead story, and a search line that checks the tabs already open before it checks the web, or only what you visited yesterday. Nothing goes online unless you turn it on.
+      <p>A Chrome new tab that finds any page you've read by a sentence you remember. It keeps the text of pages you read on your computer, shows the matching sentence with when you read it, and opens the page at that sentence. No account, no server, no AI.
 </p>
       <p><sub>Chrome extension · React, TypeScript, WXT · MIT</sub></p>
     </td>
