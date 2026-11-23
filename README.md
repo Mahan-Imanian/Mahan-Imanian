@@ -25,7 +25,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/netcheck"><img alt="Netcheck: Ping every CS2 region before you queue. Beside it, the verdict screen: Vienna, pinned, 83 ms average with 0% loss, every ping charted, and the region map." src="assets/tile-netcheck.jpg" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/netcheck"><img alt="Netcheck: Ping every CS2 region before you queue. Beside it, the verdict screen: Vienna, pinned, 83 ms average with 0% loss, every ping charted, Re-check above Launch CS2, and the region map." src="assets/tile-netcheck.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/netcheck">Netcheck</a></h3>
       <p>Pings every Counter-Strike 2 server region before you queue, with jitter and packet loss for each, then traces the route to the fastest one. It says in plain words whether the lag is your Wi-Fi, your ISP or the link out of the country, and what to do about it, in 11 languages including Persian.
 </p>
