@@ -32,9 +32,9 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <p><sub><a href="https://github.com/Mahan-Imanian/netcheck/releases/latest"><b>Download</b></a> · Windows 11 · Rust, Tauri, React, TypeScript · MIT</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/protonaut"><img alt="Protonaut: Catch Proton crashes on every pull request. Beside it, the comment it posts on a PR: Failures found, crashed with exit code 148 after 2.8 s, and the Wine crash signature." src="assets/tile-protonaut.jpg" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/protonaut"><img alt="Protonaut: Catch Proton crashes on every pull request. Beside it, the comment it posts on a PR: 2 checks failed, crashed after 1.8 s with the Wine crash line, and the checks it could not test." src="assets/tile-protonaut.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/protonaut">Protonaut</a></h3>
-      <p>Runs a Windows game build under GE-Proton in CI. If a change makes the game crash or render black, the pull request goes red with screenshots and logs attached, no Steam Deck required. Independent project, not affiliated with Valve.
+      <p>Runs a Windows game build under GE-Proton in CI. If a change makes the game crash or render black, the pull request goes red with the crash line, screenshots and a command to reproduce the run, no Steam Deck required. Independent project, not affiliated with Valve.
 </p>
       <p><sub><a href="https://mahan-imanian.github.io/protonaut/"><b>Website</b></a> · <a href="https://github.com/Mahan-Imanian/protonaut-demo/pull/1">Live demo PR</a> · Rust · Apache-2.0</sub></p>
     </td>
