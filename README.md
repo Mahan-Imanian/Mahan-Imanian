@@ -16,7 +16,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <p><sub><b>Live</b> at <a href="https://codersays.com">codersays.com</a> · Laravel</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mahan-Imanian/Stride"><img alt="Stride: Watch every step, beside the data it reads. Beside it, the lab 230 steps into Dijkstra and A* on one blackboard grid, each run hatched its own way, with both step captions underneath." src="assets/tile-stride.jpg" width="100%"></a>
+      <a href="https://github.com/Mahan-Imanian/Stride"><img alt="Stride, an algorithm lab for lectures: five experiments on a blackboard. The largest asks which of Dijkstra and A* does less work for the same shortest path, 658 cells against 295. Beside it, BFS in a maze, quicksort on sorted input, Prim building a spanning tree, and k-means from a bad start, each with its question and result." src="assets/tile-stride.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/Stride">Stride</a></h3>
       <p>An algorithm lab for lectures and self-study. It records every step of a run and plays it back beside the queue, heap or call stack, and two algorithms can run on the same input to compare their counts.
 </p>
