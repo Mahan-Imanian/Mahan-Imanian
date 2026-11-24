@@ -18,7 +18,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
     <td width="50%" valign="top">
       <a href="https://github.com/Mahan-Imanian/Stride"><img alt="Stride, an algorithm lab for lectures: five experiments on a blackboard. The largest asks which of Dijkstra and A* does less work for the same shortest path, 658 cells against 295. Beside it, BFS in a maze, quicksort on sorted input, Prim building a spanning tree, and k-means from a bad start, each with its question and result." src="assets/tile-stride.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/Stride">Stride</a></h3>
-      <p>An algorithm lab for lectures and self-study. It records every step of a run and plays it back beside the queue, heap or call stack, and two algorithms can run on the same input to compare their counts.
+      <p>An algorithm lab for lectures and self-study. It records every step of a run and plays it back beside the queue, heap or call stack, and two algorithms can run on the same input to compare their counts. Each step has a caption with the actual values.
 </p>
       <p><sub><a href="https://mahan-imanian.github.io/Stride/"><b>Live demo</b></a> · React, TypeScript, Vite · MIT</sub></p>
     </td>
@@ -50,7 +50,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
     <td width="50%" valign="top">
       <a href="https://github.com/Mahan-Imanian/QueueTTS"><img alt="QueueTTS: Save it now. Hear it later, mid-sentence. Beside it, the side panel next to a news article, with the sentence being read in large type and the spoken word underlined." src="assets/tile-queuetts.jpg" width="100%"></a>
       <h3><a href="https://github.com/Mahan-Imanian/QueueTTS">QueueTTS</a></h3>
-      <p>Save an article with a shortcut and it joins a queue to be read aloud, in order, using the voices already on the machine. Close the tab or restart the browser and it resumes at the sentence you left.
+      <p>Save an article with a shortcut and it joins a queue to be read aloud, in order, using the voices already on the machine. Close the tab or restart the browser and it resumes at the sentence you left. Menus, cookie banners and comments are left out of what it reads.
 </p>
       <p><sub>Chrome extension · Manifest V3 · JavaScript, HTML, CSS</sub></p>
     </td>
