@@ -20,7 +20,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <h3><a href="https://github.com/Mahan-Imanian/Stride">Stride</a></h3>
       <p>An algorithm lab for lectures and self-study. It records every step of a run and plays it back beside the queue, heap or call stack, and two algorithms can run on the same input to compare their counts.
 </p>
-      <p><sub><a href="https://mahan-imanian.github.io/Stride/"><b>Live demo</b></a> · 18 algorithms, each tested against a reference implementation · React, TypeScript, Vite · MIT</sub></p>
+      <p><sub><a href="https://mahan-imanian.github.io/Stride/"><b>Live demo</b></a> · React, TypeScript, Vite · MIT</sub></p>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,6 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <h3><a href="https://github.com/Mahan-Imanian/QueueTTS">QueueTTS</a></h3>
       <p>Save an article with a shortcut and it joins a queue to be read aloud, in order, using the voices already on the machine. Close the tab or restart the browser and it resumes at the sentence you left.
 </p>
-      <p><sub>Chrome extension · no host permissions · plain JavaScript · end-to-end tested in Chrome</sub></p>
     </td>
   </tr>
 </table>
