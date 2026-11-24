@@ -13,7 +13,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <h3><a href="https://codersays.com">CoderSays</a></h3>
       <p>Research for deciding what to build next. Changelogs and public code go in; claims come out tagged by whether a source states them or they are inference. Each opportunity ends in a verdict, and most of those are refusals, published with the working shown.
 </p>
-      <p><sub><b>Live</b> at <a href="https://codersays.com">codersays.com</a> · Laravel</sub></p>
+      <p><sub><a href="https://codersays.com"><b>Live site</b></a> · Web platform · Laravel, Inertia, React, Tailwind CSS</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Mahan-Imanian/Stride"><img alt="Stride, an algorithm lab for lectures: five experiments on a blackboard. The largest asks which of Dijkstra and A* does less work for the same shortest path, 658 cells against 295. Beside it, BFS in a maze, quicksort on sorted input, Prim building a spanning tree, and k-means from a bad start, each with its question and result." src="assets/tile-stride.jpg" width="100%"></a>
@@ -52,6 +52,7 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
       <h3><a href="https://github.com/Mahan-Imanian/QueueTTS">QueueTTS</a></h3>
       <p>Save an article with a shortcut and it joins a queue to be read aloud, in order, using the voices already on the machine. Close the tab or restart the browser and it resumes at the sentence you left.
 </p>
+      <p><sub>Chrome extension · Manifest V3 · JavaScript, HTML, CSS</sub></p>
     </td>
   </tr>
 </table>
