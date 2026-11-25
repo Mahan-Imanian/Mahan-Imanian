@@ -59,30 +59,15 @@ Hi, stranger! I'm Mahan. I spend most of my time building tools for developers a
 
 <br>
 
-<h2 align="center">Merged upstream</h2>
+### Open-source contributions
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/grafana/grafana/pull/137072"><img alt="Grafana logo" src="assets/oss-grafana.png" width="56" height="56"></a>
-      <h3><a href="https://github.com/grafana/grafana/pull/137072">Grafana</a></h3>
-      <p>Added a <i>Reverse colors</i> option to the by-value color schemes in field color settings, so a gradient can run either way.</p>
-      <p><sub><a href="https://github.com/grafana/grafana/pull/137072"><b>Merged PR</b></a> · TypeScript, React</sub></p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/rustsec/rustsec/pull/1773"><img alt="RustSec logo" src="assets/oss-rustsec.png" width="56" height="56"></a>
-      <h3><a href="https://github.com/rustsec/rustsec/pull/1773">RustSec</a></h3>
-      <p>cargo-audit now says when an advisory you are ignoring has been withdrawn, so stale ignore entries are easy to remove.</p>
-      <p><sub><a href="https://github.com/rustsec/rustsec/pull/1773"><b>Merged PR</b></a> · Rust</sub></p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/jeremyckahn/chitchatter/pull/671"><img alt="Chitchatter logo" src="assets/oss-chitchatter.png" width="56" height="56"></a>
-      <h3><a href="https://github.com/jeremyckahn/chitchatter/pull/671">Chitchatter</a></h3>
-      <p>Turned on <code>noUncheckedIndexedAccess</code>, fixed the 204 type errors it exposed and added a test for a crash it caught.</p>
-      <p><sub><a href="https://github.com/jeremyckahn/chitchatter/pull/671"><b>Merged PR</b></a> · TypeScript</sub></p>
-    </td>
-  </tr>
-</table>
+Pull requests of mine that maintainers reviewed and merged.
+
+| Project | What I changed | Language | PR |
+| :-- | :-- | :-- | :-- |
+| <img alt="" src="assets/oss-grafana.png" width="16" height="16">&nbsp;**[Grafana](https://github.com/grafana/grafana/pull/137072)** | Added a <i>Reverse colors</i> option to the by-value color schemes | TypeScript | [#137072](https://github.com/grafana/grafana/pull/137072) |
+| <img alt="" src="assets/oss-rustsec.png" width="16" height="16">&nbsp;**[RustSec](https://github.com/rustsec/rustsec/pull/1773)** | cargo-audit now says when an ignored advisory has been withdrawn | Rust | [#1773](https://github.com/rustsec/rustsec/pull/1773) |
+| <img alt="" src="assets/oss-chitchatter.png" width="16" height="16">&nbsp;**[Chitchatter](https://github.com/jeremyckahn/chitchatter/pull/671)** | Enabled <code>noUncheckedIndexedAccess</code> and fixed 204 type errors | TypeScript | [#671](https://github.com/jeremyckahn/chitchatter/pull/671) |
 
 <br>
 
